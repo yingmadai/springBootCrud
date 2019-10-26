@@ -8,6 +8,7 @@ public class SpringBoot04RestfulCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBoot04RestfulCrudApplication.class, args);
+
 	}
 
 }
